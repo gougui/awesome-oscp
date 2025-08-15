@@ -116,6 +116,7 @@
 
 # Other OSCP Resources
 
+- [LabEx Linux Security Labs](https://labex.io/) - Interactive hands-on labs for Linux system administration, networking, and security fundamentals essential for OSCP preparation.
 - [PWK Syllabus](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
 - [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep)
 - [Offensive Security Bookmarks](https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/)
